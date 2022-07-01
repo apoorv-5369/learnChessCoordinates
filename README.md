@@ -5,13 +5,13 @@ A simple web-based that can help you learn chess coordinates easily.
 **Live Preview**: https://learnchesscoordinates.netlify.app/
 ## Introduction
 
-In the game of chess, you have 64 squares on the board. 64 squares where you can place your pieces. Each square has its own name. Remembering the name of these squares in key for learning, understanding and improving in chess. But learning the names of these squares is no easy feat, especially for beginners. In order to make this learning process easy, I created a simple game using which you can easily learn chess coordinates.
+In the game of chess, you have 64 squares on the board. Each square has its own name. Remembering the name of these squares is key for learning, understanding and improving in chess. But learning the names of these squares is no easy feat, especially for beginners. In order to make this learning process easy, I created a simple game using which you can easily learn chess coordinates.
 
 ## How to play
 
 - In the landing page, select the pieces you want to play with (white, black or random) and hit play.
 
-- In the game screen, you see a scoreboard and a chessboard. The scoreboard flashes current score, time left and a coordinate of a square. Click on the square with matching coordinate to earn a point. Score any many points as you can until your time runs out.
+- In the game screen, you see a scoreboard and a chessboard. The scoreboard flashes current score, time left and a coordinate of a square. Click on the square with matching coordinate to earn a point. Score as many points as you can until your time runs out.
 
 ## Run Locally
 
