@@ -20,7 +20,7 @@ To run this web app locally, simply follow these steps:
 - Clone this repository with the following command :-
 
 ```
-git clone https://github.com/AayushK47/chess-coordinates-trainer.git
+git clone https://github.com/apoorv-5369
 ```
 
 - Run npm install to install all the dependencies:-
